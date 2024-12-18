@@ -1,5 +1,6 @@
 import React from "react";
-import Welcome from "./Welcome/Welcome";
+import Welcome from "./Welcome/welcome";
+
 
 function App(){
   return(
